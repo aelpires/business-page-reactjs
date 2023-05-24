@@ -1,6 +1,7 @@
 # business-page-reactjs
 
-### [Live Site]((https://business-page-reactjs.vercel.app/))
+### [Live Site](https://business-page-reactjs.vercel.app/)
+
 
 ![Business React.Js Page with TailWindCss](https://i.ibb.co/NtVz6CQ/bank.jpg)
 
